@@ -1,2 +1,2 @@
 # class3
-This is my fast project
+https://ronisarkersanjoy.github.io/class3/
